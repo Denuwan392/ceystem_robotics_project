@@ -10,7 +10,7 @@ Faculty of IT | Cisco Certified | GenAI, AI Agents & Web Dev Certified
 
 ## 🔹 1. Introduction
 
-![Robotics Education](b1ac14ace68615b8d1e05bff440e4665.jpg) ![Robotics Education](8a9588a3265c31604a1be09d9b353601.jpg) 
+![Robotics Education](b1ac14ace68615b8d1e05bff440e4665.jpg)
 *Young students engaging in hands-on tech learning*
 
 We propose to launch a **3-month short-term educational program** to introduce school students (Grade 5 and above) to **Programming, IoT, and Robotics** through interactive, project-based learning using custom-built **Arduino kits**. Upon completion, each student will receive a **certificate** and showcase their projects at a **Demo Day**.
@@ -86,6 +86,7 @@ Each student receives a standard kit:
 ---
 
 ## 🔹 7. Marketing & Outreach Strategy
+![Robotics Education](384ad92dd9e11a2bef83e9389d37fcae.jpg)
 
 ### 📣 1. School-Based Awareness Workshops
 - Free/low-cost demo sessions in schools (Grade 5–A/L)
@@ -124,7 +125,6 @@ Each student receives a standard kit:
 
 ## 🔹 9. Team Structure
 
-- **Program Manager:** Denuwan Wijesinghe  
 - **Instructors:** Selected peers from AI, CS, and Engineering faculties  
 - **Support Team:** Logistics, design, content creators, and mentors  
 
@@ -135,6 +135,20 @@ Each student receives a standard kit:
 With a modular, hands-on approach backed by a strong promotional strategy, this initiative promises high engagement, affordable tech education, and real-world impact. We’re not just teaching — we’re inspiring the next generation of **tech creators**.
 
 With your support, we can turn this vision into a sustainable **educational movement**.
+
+---
+
+## 🔹 Existing Robotics & STEM Education Providers in Sri Lanka
+
+| Institution | Website |
+|------------|---------|
+| Meu Labs | [meulabs.org](https://meulabs.org) |
+| RoboticGen | [roboticgen.co](https://roboticgen.co) |
+| Future Robotics Academy | [futureroboticsacademy.lk](https://futureroboticsacademy.lk) |
+| Southern IRAA | [southerniraa.lk](https://www.southerniraa.lk) |
+| edMinds Academy | [edu.edminds.lk](https://edu.edminds.lk) |
+| Academy of Robotics – Sri Lanka Robotics Education | [srilankarobotics.lk](https://srilankarobotics.lk) |
+| Mechatronix Institute for Robotic Engineering (MIRE) | [mire.lk](https://mire.lk) |
 
 ---
 
