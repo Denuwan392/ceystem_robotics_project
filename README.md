@@ -3,13 +3,14 @@
 **Submitted by:**  
 Denuwan Wijesinghe  
 BSc (Hons) in Artificial Intelligence – University of Moratuwa  
-Founder – [Demetrix Co.](https://demetrix.lk) | Cisco Certified | GenAI, AI Agents & Web Dev Certified  
+Founder – Demetrix Co. | Member at IoT & Embedded Systems Labs
+Faculty of IT | Cisco Certified | GenAI, AI Agents & Web Dev Certified  
 
 ---
 
 ## 🔹 1. Introduction
 
-![Robotics Education](https://via.placeholder.com/800x400?text=Hands-on+Tech+Learning)  
+![Robotics Education](https://www.pinterest.com/pin/7881368092746891/)  
 *Young students engaging in hands-on tech learning*
 
 We propose to launch a **3-month short-term educational program** to introduce school students (Grade 5 and above) to **Programming, IoT, and Robotics** through interactive, project-based learning using custom-built **Arduino kits**. Upon completion, each student will receive a **certificate** and showcase their projects at a **Demo Day**.
