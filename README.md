@@ -150,14 +150,3 @@ With your support, we can turn this vision into a sustainable **educational move
 | Academy of Robotics – Sri Lanka Robotics Education | [srilankarobotics.lk](https://srilankarobotics.lk) |
 | Mechatronix Institute for Robotic Engineering (MIRE) | [mire.lk](https://mire.lk) |
 
----
-
-## 📌 Suggested Images to Include
-
-You can place these in an `images` folder and reference them accordingly:
-
-- `images/intro-banner.jpg` – Banner showing kids working with robots or Arduinos  
-- `images/course-flow.png` – Visual flowchart of the course levels  
-- `images/kit-components.jpg` – Photo of all kit components laid out neatly  
-- `images/demo-day.jpg` – Students presenting their projects at a demo event  
-- `images/team.jpg` – Photo of instructors and team members
