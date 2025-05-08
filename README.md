@@ -81,5 +81,5 @@ With these two complementary programs, we aim to:
 ## 📬 Let's Connect
 
 📧 Email: ddenuwan38@gmail.com
-📱 LinkedIn: Denuwan Wijesinghe(https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8)
+📱 LinkedIn: [Denuwan Wijesinghe](https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8)
   
