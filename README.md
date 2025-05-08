@@ -10,7 +10,7 @@ Faculty of IT | Cisco Certified | GenAI, AI Agents & Web Dev Certified
 
 ## 🔹 1. Introduction
 
-![Robotics Education](b1ac14ace68615b8d1e05bff440e4665.jpg)
+![Robotics Education](images/b1ac14ace68615b8d1e05bff440e4665.jpg)
 
 *Young students engaging in hands-on tech learning*
 
@@ -87,7 +87,7 @@ Each student receives a standard kit:
 ---
 
 ## 🔹 7. Marketing & Outreach Strategy
-![Robotics Education](384ad92dd9e11a2bef83e9389d37fcae.jpg)
+![Robotics Education](images/384ad92dd9e11a2bef83e9389d37fcae.jpg)
 
 ### 📣 1. School-Based Awareness Workshops
 - Free/low-cost demo sessions in schools (Grade 5–A/L)
