@@ -63,7 +63,7 @@ This proposal outlines two scalable, high-impact educational initiatives designe
 ✅ High demand among A/L students seeking job-ready skills  
 ✅ Profitable per batch (20 students = ~100,000+ LKR revenue)
 
-🔗 [Learn more about A/L ICT Mastery Course](#proposal-1-al-ict-programming-mastery-course)
+🔗 [Learn more about A/L ICT Mastery Course](AL_ICT_Programming_Course.md)
 
 ---
 
