@@ -4,7 +4,7 @@
 Submitted by:  
 **Denuwan Wijesinghe**  
 BSc (Hons) in Artificial Intelligence – *University of Moratuwa*  
-Founder – [Demetrix Co.](https://demetrix.lk) | Member – IoT & Embedded Systems Labs, Faculty of IT  
+Founder – [Demetrix Co.]() | Member – IoT & Embedded Systems Labs, Faculty of IT  
 Cisco Certified | GenAI, AI Agents & Web Dev Certified  
 
 ---
@@ -39,7 +39,7 @@ This proposal outlines two scalable, high-impact educational initiatives designe
 ✅ Scalable across schools and districts  
 ✅ Strong marketing strategy using demos, digital ads, and teacher partnerships  
 
-🔗 [Learn more about TechSpark Junior](#proposal-2-techspark-junior)
+🔗 [Learn more about TechSpark Junior](3_Months_Robotics_Course.md)
 
 ---
 
