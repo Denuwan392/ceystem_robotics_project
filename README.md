@@ -1,9 +1,3 @@
-Here's a **professionally formatted `README.md` file** that combines both of your proposals into one cohesive document, tailored to **motivate investors and showcase your background**, vision, and structured approach.
-
-You can use this as the **main README for your GitHub repository**, or host it as a landing page with additional branding.
-
----
-
 # 📘 TechSpark Junior & A/L ICT Programming Mastery Course  
 ## Two Strategic Educational Programs by Denuwan Wijesinghe
 
