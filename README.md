@@ -10,7 +10,8 @@ Faculty of IT | Cisco Certified | GenAI, AI Agents & Web Dev Certified
 
 ## 🔹 1. Introduction
 
-![Robotics Education](https://www.pinterest.com/pin/7881368092746891/)  
+![Robotics Education](b1ac14ace68615b8d1e05bff440e4665.jpg
+)  
 *Young students engaging in hands-on tech learning*
 
 We propose to launch a **3-month short-term educational program** to introduce school students (Grade 5 and above) to **Programming, IoT, and Robotics** through interactive, project-based learning using custom-built **Arduino kits**. Upon completion, each student will receive a **certificate** and showcase their projects at a **Demo Day**.
