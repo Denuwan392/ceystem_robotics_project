@@ -1,113 +1,148 @@
-# 🔬 TechWave Kids – 3-Month STEM Program for School Students
+# 📘 Proposal for 3-Month Short-Term Courses in Programming, IoT, Robotics, and Arduino
 
-📘 Proposal by **Denuwan Wijesinghe**  
-BSc (Hons) in AI | Founder of Demetrix Co. | Cisco Certified | GenAI & Web Dev Enthusiast
-
----
-
-## About the Program
-
-TechWave Kids is a hands-on, modular, 12-week program designed to introduce school students (Grade 5 and above) to the world of **Programming**, **IoT**, **Robotics**, and **Arduino** through interactive learning and real-world projects.
-
-Each student will receive a custom-built Arduino kit and work on fun, engaging projects like building a buzzer alarm, Bluetooth car, or even a smart irrigation system!
+**Submitted by:**  
+Denuwan Wijesinghe  
+BSc (Hons) in Artificial Intelligence – University of Moratuwa  
+Founder – [Demetrix Co.](https://demetrix.lk) | Cisco Certified | GenAI, AI Agents & Web Dev Certified  
 
 ---
 
-## 🎯 Objectives
+## 🔹 1. Introduction
 
-- Deliver foundational tech education using a hands-on, project-based approach.
-- Offer flexible course structures suitable for different age groups.
-- Provide affordable kits and certifications.
-- Conduct workshops and school demos to increase engagement.
+![Robotics Education](https://via.placeholder.com/800x400?text=Hands-on+Tech+Learning)  
+*Young students engaging in hands-on tech learning*
 
----
+We propose to launch a **3-month short-term educational program** to introduce school students (Grade 5 and above) to **Programming, IoT, and Robotics** through interactive, project-based learning using custom-built **Arduino kits**. Upon completion, each student will receive a **certificate** and showcase their projects at a **Demo Day**.
 
-## 👥 Target Audience
-
-- **Primary**: Grade 5 – A/L students
-- **Secondary**: Tech clubs, coding clubs, rural outreach initiatives
-- Batch size: 20–30 students per session
+This initiative aims to **nurture creativity, critical thinking**, and build early-stage technical confidence in young minds.
 
 ---
 
-## 🗂️ Curriculum Overview
+## 🔹 2. Objectives
 
-| Level       | Focus Areas                          | Example Projects                         |
-|-------------|--------------------------------------|------------------------------------------|
-| Beginner    | Scratch, Tinkercad, Arduino Basics     | LED blink, buzzer alarm, water sensor    |
-| Intermediate| Python, Sensors, Motors              | Bluetooth car, smart light system        |
-| Advanced    | Full project builds, Intro to IoT/AI | Line-following robot, smart irrigation   |
-
----
-
-## 🛠 Kit Contents (Per Student)
-
-- Arduino UNO (Clone)
-- Breadboard
-- Jumper wires
-- LEDs, Resistors
-- Ultrasonic Sensor
-- Servo Motor
-- Battery Pack
-- USB Cable
-
-> 💰 Total estimated cost per kit: ~LKR 2800 (bulk pricing)
+- Deliver foundational tech education using a **hands-on, project-based approach**
+- Offer **flexible course structures** suitable for different age groups
+- Conduct **workshops and school demos** to increase engagement and awareness
+- Provide **affordable kits and certifications** for each student
 
 ---
 
-## 💼 Revenue Model
+## 🔹 3. Target Audience
 
-| Item                             | Cost (LKR) |
-|----------------------------------|------------|
-| Course Kit (retained)            | 2800       |
-| Materials & Printing             | 500        |
-| Instructor & Venue               | 1200       |
-| **Total**                        | **~4500**  |
-| **Suggested Fee**                | **5000–6000** |
+- **Primary Group:** Grade 5 – A/L students  
+- **Secondary Group:** Tech clubs, coding clubs, and rural outreach initiatives  
+- **Batch Size:** 20–30 students per session
 
 ---
 
-## 📣 Marketing Strategy
+## 🔹 4. Course Flow (Flexible & Modular)
 
-- Free demo sessions in schools
-- Social media campaigns (Facebook, Instagram)
-- Collaborations with ICT teachers
-- Booths at expos & pop-up labs
-- Branded materials & microsite
+| Level | Focus Areas | Tools / Projects |
+|-------|-------------|------------------|
+| **Beginner (G5–8)** | Scratch, Tinkercad, Arduino Basics | LED blink, buzzer alarm, water sensor |
+| **Intermediate (G9–11)** | Python, Serial Monitor, sensors, motors | Bluetooth car, smart light system |
+| **Advanced (G12–A/L)** | Full project builds, intro to IoT & AI | Line-following robot, smart irrigation |
 
----
-
-## 🌍 Sustainability & Expansion
-
-- Replicate model across districts
-- Online lesson modules
-- Train-the-trainer programs
-- Continuous levels (Beginner → Advanced)
+- **12-week course** (1–2 sessions/week, 1.5–2 hours per session)
+- Every student works hands-on with a real **Arduino kit**
+- **End-of-course Certificate + Demo Day**
 
 ---
 
-## 👥 Team
+## 🔹 5. Learning Materials & Kit Quotation
 
-- **Program Manager**: Denuwan Wijesinghe
-- **Instructors**: CS/AI Engineering peers
-- **Support Team**: Logistics, design, mentors
+Each student receives a standard kit:
+
+| Component | Quantity | Est. Unit Cost (LKR) | Total (LKR) |
+|----------|----------|----------------------|-------------|
+| Arduino UNO (Clone) | 1 | 1500 | 1500 |
+| Breadboard | 1 | 200 | 200 |
+| Jumper Wires Set | 1 | 250 | 250 |
+| LEDs (Red, Green, Yellow) | 10 | 5 x 10 = 50 | 50 |
+| Resistors Pack | 1 | 100 | 100 |
+| Ultrasonic Sensor (HC-SR04) | 1 | 350 | 350 |
+| Buzzer | 1 | 80 | 80 |
+| LDR + Light Sensor | 1 | 100 | 100 |
+| Servo Motor | 1 | 300 | 300 |
+| Battery Pack + Holder | 1 | 200 | 200 |
+| USB Cable | 1 | 150 | 150 |
+| **Total** | | | **~3,280 LKR** |
+
+> 💡 Bulk purchases can reduce the price per kit to ~2,800 LKR.
 
 ---
 
-## 📥 Want to Contribute?
+## 🔹 6. Revenue Model
 
-We welcome educators, developers, designers, and partners to help grow this initiative. See our [Contributing Guide](CONTRIBUTING.md).
+| Cost Item | Per Student (LKR) |
+|-----------|--------------------|
+| Course Kit (retained by student) | 2800 |
+| Course Materials & Printing | 500 |
+| Instructor & Venue | 1200 |
+| **Total Cost per Student** | ~4,500 LKR |
+| **Suggested Fee** | 5,000 – 6,000 LKR (flexible by region/school) |
 
 ---
 
-## 📄 License
+## 🔹 7. Marketing & Outreach Strategy
 
-MIT License – see [LICENSE](LICENSE)
+### 📣 1. School-Based Awareness Workshops
+- Free/low-cost demo sessions in schools (Grade 5–A/L)
+- Hands-on activities using LEDs/sensors
+- Certificates of participation
+- Promote full course during these workshops
+
+### 📲 2. Digital Marketing
+- Use Meta Ads (Facebook/Instagram) targeting parents & students
+- Share videos, student testimonials, and project demos
+- Partner with school Facebook pages/groups for reach
+
+### 🎤 3. Influencer & Teacher Outreach
+- Collaborate with ICT teachers & STEM club coordinators
+- Offer referral discounts for teacher-recommended students
+
+### 🧑‍🏫 4. Community Presence
+- Booths at local educational expos
+- Pop-up STEM labs at tuition centers or events
+
+### 🧪 5. Build the Brand
+- Program name ideas: “CodeSpark Junior”, “TechWave Kids”
+- Branded kits, t-shirts, certificates
+- Microsite/landing page for registration and inquiries
 
 ---
 
-## 📚 Learn More
+## 🔹 8. Sustainability & Expansion Plan
 
-- [Curriculum Docs](docs/proposal.md)
-- [Kit Components List](kits/components-list.md)
-- [Outreach Plan](marketing/outreach-plan.md)
+- Reuse model in other districts with local instructor hubs
+- Create course "levels" for progressive learning
+- Add optional online components (recorded lessons + quizzes)
+- Offer train-the-trainer modules to expand reach
+
+---
+
+## 🔹 9. Team Structure
+
+- **Program Manager:** Denuwan Wijesinghe  
+- **Instructors:** Selected peers from AI, CS, and Engineering faculties  
+- **Support Team:** Logistics, design, content creators, and mentors  
+
+---
+
+## 🔹 10. Conclusion
+
+With a modular, hands-on approach backed by a strong promotional strategy, this initiative promises high engagement, affordable tech education, and real-world impact. We’re not just teaching — we’re inspiring the next generation of **tech creators**.
+
+With your support, we can turn this vision into a sustainable **educational movement**.
+
+---
+
+## 📌 Suggested Images to Include
+
+You can place these in an `images` folder and reference them accordingly:
+
+- `images/intro-banner.jpg` – Banner showing kids working with robots or Arduinos  
+- `images/course-flow.png` – Visual flowchart of the course levels  
+- `images/kit-components.jpg` – Photo of all kit components laid out neatly  
+- `images/demo-day.jpg` – Students presenting their projects at a demo event  
+- `images/team.jpg` – Photo of instructors and team members
