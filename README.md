@@ -80,10 +80,6 @@ With these two complementary programs, we aim to:
 
 ## 📬 Let's Connect
 
-📧 Email: denuwan@demetrix.lk  
-🌐 Website: [demetrix.lk](https://demetrix.lk)  
-📱 LinkedIn: [linkedin.com/in/denuwanwijesinghe](https://linkedin.com/in/denuwanwijesinghe)
-
----
-
-Let me know if you'd like this exported as a **PDF**, or if you want a **GitHub Pages version** with navigation and styling!
+📧 Email: ddenuwan38@gmail.com
+📱 LinkedIn: [Denuwan Wijesinghe]([https://linkedin.com/in/denuwanwijesinghe](https://lk.linkedin.com/in/denuwan-wijesinghe-2423971b8))
+  
