@@ -8,11 +8,17 @@ Founder – [Demetrix Co.]() | Member – IoT & Embedded Systems Labs, Faculty o
 Cisco Certified | GenAI, AI Agents & Web Dev Certified  
 
 ---
-<p align="center">
-  <img src="images/FB_IMG_1725974268077.jpg" alt="TechSpark Demo" width="30%" style="margin-right:10px;">
-  <img src="images/WhatsApp Image 2025-05-16 at 14.41.53.jpeg" alt="Arduino Session" width="30%" style="margin-right:10px;">
-  <img src="images/FB_IMG_1733327827025.jpg" alt="Student Projects" width="30%">
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <!-- Left Column: Two stacked landscape images -->
+  <div style="display: flex; flex-direction: column; gap: 10px; margin-right: 10px;">
+    <img src="images/FB_IMG_1725974268077.jpg" alt="TechSpark Demo" style="width: 300px; height: auto;">
+    <img src="images/FB_IMG_1733327827025.jpg" alt="Student Projects" style="width: 300px; height: auto;">
+  </div>
+
+  <!-- Right Column: One tall portrait image -->
+  <img src="images/WhatsApp Image 2025-05-16 at 14.41.53.jpeg" alt="Arduino Session" style="height: 620px; width: auto; object-fit: cover;">
+</div>
+
 ## 💡 About Me
 
 I am a passionate tech educator and founder with a mission to **bridge the gap between school-level education and real-world technology skills**. With academic training from the University of Moratuwa and hands-on experience in startups, IoT labs, and global certifications, I've built programs that empower students through:
