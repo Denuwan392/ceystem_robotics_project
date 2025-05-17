@@ -11,8 +11,8 @@ Cisco Certified | GenAI, AI Agents & Web Dev Certified
 <table>
   <tr>
     <td>
-      <img src="images/FB_IMG_1725974268077.jpg" width="250"><br>
-      <img src="images/FB_IMG_1733327827025.jpg" width="250">
+      <img src="images/FB_IMG_1725974268077.jpg" height="250"><br>
+      <img src="images/FB_IMG_1733327827025.jpg" height="250">
     </td>
     <td>
       <img src="images/WhatsApp Image 2025-05-16 at 14.41.53.jpeg" height="500">
