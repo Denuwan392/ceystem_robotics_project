@@ -8,16 +8,18 @@ Founder – [Demetrix Co.]() | Member – IoT & Embedded Systems Labs, Faculty o
 Cisco Certified | GenAI, AI Agents & Web Dev Certified  
 
 ---
-<div style="display: flex; justify-content: center; align-items: center;">
-  <!-- Left Column: Two stacked landscape images -->
-  <div style="display: flex; flex-direction: column; gap: 10px; margin-right: 10px;">
-    <img src="images/FB_IMG_1725974268077.jpg" alt="TechSpark Demo" style="width: 300px; height: auto;">
-    <img src="images/FB_IMG_1733327827025.jpg" alt="Student Projects" style="width: 300px; height: auto;">
-  </div>
+<table>
+  <tr>
+    <td>
+      <img src="images/FB_IMG_1725974268077.jpg" width="250"><br>
+      <img src="images/FB_IMG_1733327827025.jpg" width="250">
+    </td>
+    <td>
+      <img src="images/WhatsApp Image 2025-05-16 at 14.41.53.jpeg" height="500">
+    </td>
+  </tr>
+</table>
 
-  <!-- Right Column: One tall portrait image -->
-  <img src="images/WhatsApp Image 2025-05-16 at 14.41.53.jpeg" alt="Arduino Session" style="height: 620px; width: auto; object-fit: cover;">
-</div>
 
 ## 💡 About Me
 
